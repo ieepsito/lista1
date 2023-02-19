@@ -1,0 +1,864 @@
+group,EU| SPAIN TDT
+LA1.es,|ES| LA 1 FHD,http://pythontv.net:8789/luis12/pMQuMbm/22972
+LA1.es,|ES| LA 1 HD,http://pythontv.net:8789/luis12/pMQuMbm/1082
+LA1.es,|ES| LA 1 SD,http://pythontv.net:8789/luis12/pMQuMbm/249474
+LA1.es,|ES| LA 1,http://pythontv.net:8789/luis12/pMQuMbm/612
+ext,|ES| TVE INT,http://pythontv.net:8789/luis12/pMQuMbm/49510
+ext,|ES| CLAN TVE FHD,http://pythontv.net:8789/luis12/pMQuMbm/7714
+ClanTVE.es,|ES| CLAN TVE,http://pythontv.net:8789/luis12/pMQuMbm/2797
+LA2.es,|ES| LA 2 HD,http://pythontv.net:8789/luis12/pMQuMbm/611
+LA2.es,|ES| LA 2 SD,http://pythontv.net:8789/luis12/pMQuMbm/249475
+Antena3.es,|ES| ANTENA 3 FHD,http://pythontv.net:8789/luis12/pMQuMbm/22973
+Antena3.es,|ES| ANTENA 3 HD,http://pythontv.net:8789/luis12/pMQuMbm/2003
+Antena3.es,|ES| ANTENA 3 SD,http://pythontv.net:8789/luis12/pMQuMbm/885
+Cuatro.es,|ES| CUATRO FHD,http://pythontv.net:8789/luis12/pMQuMbm/22974
+Cuatro.es,|ES| CUATRO HD,http://pythontv.net:8789/luis12/pMQuMbm/831
+Cuatro.es,|ES| CUATRO SD,http://pythontv.net:8789/luis12/pMQuMbm/7717
+Telecinco.es,|ES| TELECINCO FHD,http://pythontv.net:8789/luis12/pMQuMbm/22975
+Telecinco.es,|ES| TELECINCO HD,http://pythontv.net:8789/luis12/pMQuMbm/374
+FDF.es,|ES| TELECINCO SD,http://pythontv.net:8789/luis12/pMQuMbm/761
+LaSexta.sp,|ES| LA SEXTA FHD,http://pythontv.net:8789/luis12/pMQuMbm/2647
+LaSexta.sp,|ES| LA SEXTA HD,http://pythontv.net:8789/luis12/pMQuMbm/429
+LaSexta.sp,|ES| LA SEXTA SD,http://pythontv.net:8789/luis12/pMQuMbm/2726
+ext,|ES| TELEMADRID,http://pythontv.net:8789/luis12/pMQuMbm/110198
+ext,|ES| LaOtra,http://pythontv.net:8789/luis12/pMQuMbm/116529
+CanalSurAndalucia.es,|ES| CANAL SUR A,http://pythontv.net:8789/luis12/pMQuMbm/986
+ETB1.es,|ES| ETB SAT,http://pythontv.net:8789/luis12/pMQuMbm/102262
+ext,|ES| ETB 1 HD,http://pythontv.net:8789/luis12/pMQuMbm/49506
+ext,|ES| ETB 2 HD,http://pythontv.net:8789/luis12/pMQuMbm/102263
+TV3.sp,|ES| TV3,http://pythontv.net:8789/luis12/pMQuMbm/49517
+ext,|ES| TV3 ESPANÁ HD,http://pythontv.net:8789/luis12/pMQuMbm/249465
+ext,|ES| 324 SRT HD,http://pythontv.net:8789/luis12/pMQuMbm/249466
+ext,|ES| SUPER 3 HD,http://pythontv.net:8789/luis12/pMQuMbm/249473
+ext,|ES| BTV 6,http://pythontv.net:8789/luis12/pMQuMbm/249472
+ext,|ES| LA 8 MEDITERRANEO,http://pythontv.net:8789/luis12/pMQuMbm/249471
+ext,|ES| IB3 GLOBALIB3 GLOBAL,http://pythontv.net:8789/luis12/pMQuMbm/249470
+ext,|ES| TPA 8,http://pythontv.net:8789/luis12/pMQuMbm/249469
+ext,|ES| TPA 7,http://pythontv.net:8789/luis12/pMQuMbm/249468
+ext,|ES| TV HOSPITALET,http://pythontv.net:8789/luis12/pMQuMbm/249467
+CanalExtremadura.es,|ES| CANAL EXTREMADURA SAT,http://pythontv.net:8789/luis12/pMQuMbm/249464
+ext,|ES| TEVE CAT,http://pythontv.net:8789/luis12/pMQuMbm/116531
+ext,|ES| POPULAR TV MELIILLA,http://pythontv.net:8789/luis12/pMQuMbm/116527
+ext,|ES| MELIILLA TV,http://pythontv.net:8789/luis12/pMQuMbm/116526
+ext,|ES| CANAL MALAGA,http://pythontv.net:8789/luis12/pMQuMbm/49508
+ext,|ES| TV CANARIA HD,http://pythontv.net:8789/luis12/pMQuMbm/116530
+ext,|ES| 7RM HD,http://pythontv.net:8789/luis12/pMQuMbm/116525
+ext,|ES| CADENA ELITE,http://pythontv.net:8789/luis12/pMQuMbm/116524
+CanalExtremadura.es,|ES| EXTREMADURA TV,http://pythontv.net:8789/luis12/pMQuMbm/49505
+ext,|ES| MEGA TV HD,http://pythontv.net:8789/luis12/pMQuMbm/230419
+Mega.es,|ES| MEGA TV,http://pythontv.net:8789/luis12/pMQuMbm/1087
+TVGalicia.es,|ES| TV GALICIA,http://pythontv.net:8789/luis12/pMQuMbm/987
+AragonTVsat.sp,|ES| ARAGON TV,http://pythontv.net:8789/luis12/pMQuMbm/10798
+ext,|ES| CANAL 24 HORAS FHD,http://pythontv.net:8789/luis12/pMQuMbm/621
+ext,|ES| M CLASSICA,http://pythontv.net:8789/luis12/pMQuMbm/7713
+ext,|ES| M MTV ESPANA,http://pythontv.net:8789/luis12/pMQuMbm/7710
+SolMusica.sp,|ES| SOL MUSICA,http://pythontv.net:8789/luis12/pMQuMbm/249485
+ext,|ES| HIT TV,http://pythontv.net:8789/luis12/pMQuMbm/249484
+ext,|ES| ALL FLAMENCO Full HD,http://pythontv.net:8789/luis12/pMQuMbm/249483
+MezzoLiveHD.es,|ES| MEZZO LIVE HD,http://pythontv.net:8789/luis12/pMQuMbm/47380
+
+group,EU| SPAIN KIDS
+ext,|ES| PEQUERADIO,http://pythontv.net:8789/luis12/pMQuMbm/228516
+DisneyChannel.es,|ES| DISNEY CHANNEL FHD,http://pythontv.net:8789/luis12/pMQuMbm/686
+DisneyChannel.es,|ES| DISNEY CHANNEL,http://pythontv.net:8789/luis12/pMQuMbm/518
+DisneyJr.es,|ES| DISNEY JR,http://pythontv.net:8789/luis12/pMQuMbm/516
+ext,|ES| NICK JR FHD,http://pythontv.net:8789/luis12/pMQuMbm/673
+ext,|ES| NICK JR HD,http://pythontv.net:8789/luis12/pMQuMbm/675
+Panda.es,|ES| CANAL PANDA,http://pythontv.net:8789/luis12/pMQuMbm/677
+ext,|ES| BOING ESP,http://pythontv.net:8789/luis12/pMQuMbm/681
+ext,|ES| BABY ESP,http://pythontv.net:8789/luis12/pMQuMbm/680
+DisneyChannel.es,|ES| DISNEY CHANNEL HD,http://pythontv.net:8789/luis12/pMQuMbm/47378
+Nickelodeon.es,|ES| NICKELODEON HD,http://pythontv.net:8789/luis12/pMQuMbm/47379
+
+group,EU| SPAIN DOCUMENTAL
+ext,|ES| ALCARRIA TV,http://pythontv.net:8789/luis12/pMQuMbm/49511
+ext,|ES| M DECASA,http://pythontv.net:8789/luis12/pMQuMbm/1086
+ext,|ES| CANAL DECASA FHD,http://pythontv.net:8789/luis12/pMQuMbm/249482
+Odisea.es,|ES| ODISEA,http://pythontv.net:8789/luis12/pMQuMbm/634
+ext,|ES| NAT GEOGRAPHIC HD,http://pythontv.net:8789/luis12/pMQuMbm/635
+NatGeoWild.es,|ES| NAT GEO WILD FHD,http://pythontv.net:8789/luis12/pMQuMbm/636
+NatGeoWild.es,|ES| NAT GEO WILD  HD,http://pythontv.net:8789/luis12/pMQuMbm/512
+DiscoveryChannel.sp,|ES| DISCOVERY CHANNEL SD,http://pythontv.net:8789/luis12/pMQuMbm/671
+ext,|ES| DISCOVERY CI,http://pythontv.net:8789/luis12/pMQuMbm/669
+ext,|ES| CRIMEN INVESTIGACION,http://pythontv.net:8789/luis12/pMQuMbm/47375
+Historia.es,|ES| HISTORIA,http://pythontv.net:8789/luis12/pMQuMbm/1085
+ext,|ES| BLAZE,http://pythontv.net:8789/luis12/pMQuMbm/670
+ext,|ES| CAZA & PESCA HD,http://pythontv.net:8789/luis12/pMQuMbm/47376
+CazayPesca.es,|ES| CAZA Y PESCA,http://pythontv.net:8789/luis12/pMQuMbm/991
+IberaliaTV.es,|ES| IBERALIA TV,http://pythontv.net:8789/luis12/pMQuMbm/682
+ext,|ES| LEBRALIA TV,http://pythontv.net:8789/luis12/pMQuMbm/49513
+ext,|ES| IBÉRALIA 100% CAZA FHD,http://pythontv.net:8789/luis12/pMQuMbm/249481
+ext,|ES| IBÉRALIA 100% PESCA FHD,http://pythontv.net:8789/luis12/pMQuMbm/249480
+
+group,EU| SPAIN DAZN
+DaznLaLiga.es,|ES| DAZN LALIGA FHD 1,http://pythontv.net:8789/luis12/pMQuMbm/249741
+DaznLaLiga.es,|ES| DAZN LALIGA HD 1,http://pythontv.net:8789/luis12/pMQuMbm/249451
+DaznLaLiga.es,|ES| DAZN LALIGA SD 1,http://pythontv.net:8789/luis12/pMQuMbm/249740
+DaznLaLiga2.es,|ES| DAZN LALIGA HD 2,http://pythontv.net:8789/luis12/pMQuMbm/249450
+DAZN1.es,|ES| DAZN 1 HD (Eventos),http://pythontv.net:8789/luis12/pMQuMbm/101855
+DAZN2.es,|ES| DAZN 2 FHD (Eventos),http://pythontv.net:8789/luis12/pMQuMbm/101857
+DAZN2.es,|ES| DAZN 2 FHD,http://pythontv.net:8789/luis12/pMQuMbm/249449
+DAZN2.es,|ES| DAZN 2 HD,http://pythontv.net:8789/luis12/pMQuMbm/36461
+DAZN2.es,|ES| DAZN 2 HD,http://pythontv.net:8789/luis12/pMQuMbm/249448
+DAZN3.es,|ES| DAZN 3 HD,http://pythontv.net:8789/luis12/pMQuMbm/101858
+DAZN3.es,|ES| DAZN 3 FHD,http://pythontv.net:8789/luis12/pMQuMbm/249447
+DAZN3.es,|ES| DAZN 3 HD,http://pythontv.net:8789/luis12/pMQuMbm/36462
+DAZN4.es,|ES| DAZN 4 FHD (Eventos),http://pythontv.net:8789/luis12/pMQuMbm/101859
+DAZN4.es,|ES| DAZN 4 HD,http://pythontv.net:8789/luis12/pMQuMbm/36463
+ext,|ES| DAZN F1 FHD,http://pythontv.net:8789/luis12/pMQuMbm/2016
+ext,|ES| DAZN F1 HD,http://pythontv.net:8789/luis12/pMQuMbm/47372
+ext,|ES| DAZN F1,http://pythontv.net:8789/luis12/pMQuMbm/622
+
+group,EU| SPAIN DEPORTES
+LaLigaSmartBank.es,|ES| LA LIGA SMARTBANK FHD,http://pythontv.net:8789/luis12/pMQuMbm/249739
+LaLigaSmartBank.es,|ES| LA LIGA SMARTBANK HD,http://pythontv.net:8789/luis12/pMQuMbm/249738
+ext,|ES| LA LIGA SMARTBANK SD,http://pythontv.net:8789/luis12/pMQuMbm/249737
+ext,|ES| LA LIGA SMARTBANK M1 FHD,http://pythontv.net:8789/luis12/pMQuMbm/249736
+ext,|ES| LA LIGA SMARTBANK M1 HD,http://pythontv.net:8789/luis12/pMQuMbm/249735
+ext,|ES| LA LIGA SMARTBANK M1 SD,http://pythontv.net:8789/luis12/pMQuMbm/249734
+Vamos.es,|ES| #VAMOS FHD,http://pythontv.net:8789/luis12/pMQuMbm/2005
+Vamos.es,|ES| #VAMOS HD,http://pythontv.net:8789/luis12/pMQuMbm/668
+ext,|ES| GOL TV HD,http://pythontv.net:8789/luis12/pMQuMbm/1642
+ext,|ES| GOL MUNDIAL FHD,http://pythontv.net:8789/luis12/pMQuMbm/273996
+ext,|ES| GOL MUNDIAL HD,http://pythontv.net:8789/luis12/pMQuMbm/273995
+ext,|ES| M+ Ellas #V FHD,http://pythontv.net:8789/luis12/pMQuMbm/305517
+MLaLiga.es,|ES| M LALIGA TV FHD,http://pythontv.net:8789/luis12/pMQuMbm/1083
+MLaLiga.es,|ES| M LALIGA TV HD,http://pythontv.net:8789/luis12/pMQuMbm/11329
+LaLigaTVBar.es,|ES| M LALIGA BAR HD,http://pythontv.net:8789/luis12/pMQuMbm/623
+LaLigaTVBar.es,|ES| M LALIGA BAR FHD,http://pythontv.net:8789/luis12/pMQuMbm/116173
+M.LaLiga.es,|ES| M. LaLIga 1 (event only),http://pythontv.net:8789/luis12/pMQuMbm/37088
+M.LaLiga2.es,|ES| M. LaLIga 2 (event only),http://pythontv.net:8789/luis12/pMQuMbm/37089
+M.LaLiga3.es,|ES| M. LaLIga 3 (event only),http://pythontv.net:8789/luis12/pMQuMbm/37090
+M.LaLiga4.es,|ES| M. LaLIga 4 (event only),http://pythontv.net:8789/luis12/pMQuMbm/37091
+M.LaLig5.es,|ES| M. LaLIga 5 (event only),http://pythontv.net:8789/luis12/pMQuMbm/37092
+M.LaLiga7.es,|ES| M. LaLIga 7 (event only),http://pythontv.net:8789/luis12/pMQuMbm/37094
+M.LaLiga8.es,|ES| M. LaLIga 8 (event only),http://pythontv.net:8789/luis12/pMQuMbm/37095
+M.LigaDeCampeones.es,|ES| M LIGA DE CAMPEONES FHD,http://pythontv.net:8789/luis12/pMQuMbm/15152
+M.LigaDeCampeones.es,|ES| M LIGA  CAMPEONES FHD,http://pythontv.net:8789/luis12/pMQuMbm/249452
+M.LigaDeCampeones.es,|ES| LIGA DE CAMPEONES  HD,http://pythontv.net:8789/luis12/pMQuMbm/15151
+M.LigaDeCampeones.es,|ES| M LIGA CAMPEONES 1 HD,http://pythontv.net:8789/luis12/pMQuMbm/15371
+M.LigaDeCampeones2.es,|ES| LIGA DE CAMPEONES 2 HD,http://pythontv.net:8789/luis12/pMQuMbm/15150
+M.LigaDeCampeones3.es,|ES| M LIGA CAMPEONES 3,http://pythontv.net:8789/luis12/pMQuMbm/15369
+M.LigaDeCampeones4.es,|ES| M LIGA CAMPEONES 4,http://pythontv.net:8789/luis12/pMQuMbm/15368
+LigaDeCampeones5.es,|ES| M LIGA CAMPEONES 5,http://pythontv.net:8789/luis12/pMQuMbm/15367
+LigaDeCampeones6.es,|ES| M LIGA CAMPEONES 6,http://pythontv.net:8789/luis12/pMQuMbm/15366
+LigaDeCampeones7.es,|ES| M LIGA CAMPEONES 7,http://pythontv.net:8789/luis12/pMQuMbm/15365
+LigaDeCampeones8.es,|ES| M LIGA CAMPEONES 8,http://pythontv.net:8789/luis12/pMQuMbm/15364
+MovistarDeportes.es,|ES| M DEPORTES FHD,http://pythontv.net:8789/luis12/pMQuMbm/2004
+M.Deportes.es,|ES| DEPORTES FHD,http://pythontv.net:8789/luis12/pMQuMbm/249453
+MovistarDeportes.es,|ES| M. DEPORTES HD,http://pythontv.net:8789/luis12/pMQuMbm/36474
+ext,|ES| M TELEDEPORTE,http://pythontv.net:8789/luis12/pMQuMbm/989
+MovistarDeportes1.es,|ES| M. DEPORTES 1 FHD,http://pythontv.net:8789/luis12/pMQuMbm/107835
+M.Deportes1.es,|ES| M. DEPORTES 1,http://pythontv.net:8789/luis12/pMQuMbm/107834
+M.Deportes2.es,|ES| M. DEPORTES 2,http://pythontv.net:8789/luis12/pMQuMbm/107836
+MovistarDeportes3.es,|ES| M. DEPORTES 3,http://pythontv.net:8789/luis12/pMQuMbm/36469
+MovistarDeportes4.es,|ES| M. DEPORTES 4,http://pythontv.net:8789/luis12/pMQuMbm/36470
+MovistarDeportes5.es,|ES| M. DEPORTES 5,http://pythontv.net:8789/luis12/pMQuMbm/36471
+MovistarDeportes6.es,|ES| M. DEPORTES 6,http://pythontv.net:8789/luis12/pMQuMbm/36472
+MovistarDeportes7.es,|ES| M. DEPORTES 7,http://pythontv.net:8789/luis12/pMQuMbm/36473
+ext,|ES| M BARCA TV FHD,http://pythontv.net:8789/luis12/pMQuMbm/981
+ext,|ES| M BARCA TV,http://pythontv.net:8789/luis12/pMQuMbm/226559
+ext,|ES| M REAL MADRID TV,http://pythontv.net:8789/luis12/pMQuMbm/318
+ext,|ES| SEVILLA FC TV,http://pythontv.net:8789/luis12/pMQuMbm/116535
+ext,|ES| SFC TV SEVILLA FOOT,http://pythontv.net:8789/luis12/pMQuMbm/249444
+ext,|ES| BETIS,http://pythontv.net:8789/luis12/pMQuMbm/249443
+ext,|ES| LEVANTE TV,http://pythontv.net:8789/luis12/pMQuMbm/116532
+ext,|ES| M EUROSPORT 1 FHD,http://pythontv.net:8789/luis12/pMQuMbm/2796
+Eurosport1.es,|ES| EUROSPORT 1 HD,http://pythontv.net:8789/luis12/pMQuMbm/47373
+ext,|ES| M EUROSPORT 1,http://pythontv.net:8789/luis12/pMQuMbm/990
+Eurosport2.es,|ES| EUROSPORT 2,http://pythontv.net:8789/luis12/pMQuMbm/7716
+ext,|ES| M. GOLF HD,http://pythontv.net:8789/luis12/pMQuMbm/47371
+ext,|ES| RED BULL TV FHD,http://pythontv.net:8789/luis12/pMQuMbm/249732
+ext,|ES| RED BULL TV HD,http://pythontv.net:8789/luis12/pMQuMbm/249733
+ext,|ES| RED BULL TV SD,http://pythontv.net:8789/luis12/pMQuMbm/249731
+ext,|ES| MOTO ADV,http://pythontv.net:8789/luis12/pMQuMbm/249442
+ext,|ES| M TOROS TV FHD,http://pythontv.net:8789/luis12/pMQuMbm/7703
+ext,|ES| VERY BRITISH HD,http://pythontv.net:8789/luis12/pMQuMbm/249445
+ext,|ES| eSPORT 3 HD,http://pythontv.net:8789/luis12/pMQuMbm/249454
+Esport3.es,|ES| ESPORT 3,http://pythontv.net:8789/luis12/pMQuMbm/116533
+ext,|ES| NAUTICAL CHANNEL HD,http://pythontv.net:8789/luis12/pMQuMbm/249440
+ext,|ES| HORSE TV HD,http://pythontv.net:8789/luis12/pMQuMbm/249441
+CanalPlusToros.es,|ES| TOROS TV HD,http://pythontv.net:8789/luis12/pMQuMbm/2736
+ext,|ES| El TORO TV,http://pythontv.net:8789/luis12/pMQuMbm/116534
+
+group,EU| SPAIN CINE
+M.Estrenos.es,|ES| M ESTRENOS FHD,http://pythontv.net:8789/luis12/pMQuMbm/2022
+M.Estrenos.es,|ES| M. ESTRENOS HD,http://pythontv.net:8789/luis12/pMQuMbm/47365
+M.Estrenos.es,|ES| M ESTRENOS  SD,http://pythontv.net:8789/luis12/pMQuMbm/521
+M.Estrenos2.es,|ES| M. ESTRENOS 2 FHD,http://pythontv.net:8789/luis12/pMQuMbm/116516
+ext,|ES| M. FEST FHD,http://pythontv.net:8789/luis12/pMQuMbm/116518
+M.Accion.es,|ES| M ACCION FHD,http://pythontv.net:8789/luis12/pMQuMbm/627
+M.Accion.es,|ES| M. ACCION HD,http://pythontv.net:8789/luis12/pMQuMbm/47366
+M.Accion.es,|ES| M ACCION SD,http://pythontv.net:8789/luis12/pMQuMbm/377
+SundanceTV.es,|ES| SUNDANCE FHD,http://pythontv.net:8789/luis12/pMQuMbm/249477
+SundanceTV.es,|ES| SUNDANCE HD,http://pythontv.net:8789/luis12/pMQuMbm/249478
+Xtrm.es,|ES| XTRM  FHD,http://pythontv.net:8789/luis12/pMQuMbm/637
+Xtrm.es,|ES| XTRM HD,http://pythontv.net:8789/luis12/pMQuMbm/249476
+Hollywood.es,|ES| M HOLLYWOOD FHD,http://pythontv.net:8789/luis12/pMQuMbm/428
+Hollywood.es,|ES| M HOLLYWOOD,http://pythontv.net:8789/luis12/pMQuMbm/11339
+AMC.es,|ES| M AMC FHD,http://pythontv.net:8789/luis12/pMQuMbm/1081
+AMC.es,|ES| M AMC,http://pythontv.net:8789/luis12/pMQuMbm/628
+M.Comedia.es,|ES| M COMEDIA FHD,http://pythontv.net:8789/luis12/pMQuMbm/983
+M.Comedia.es,|ES| M. COMEDIA HD,http://pythontv.net:8789/luis12/pMQuMbm/47367
+M.Comedia.es,|ES| M COMEDIA SD,http://pythontv.net:8789/luis12/pMQuMbm/520
+ext,|ES| M PARAMOUNT SD,http://pythontv.net:8789/luis12/pMQuMbm/7707
+M.Drama.es,|ES| M DRAMA FHD,http://pythontv.net:8789/luis12/pMQuMbm/663
+M.Drama.es,|ES| M. DRAMA HD,http://pythontv.net:8789/luis12/pMQuMbm/47368
+ext,|ES| BOM CINE,http://pythontv.net:8789/luis12/pMQuMbm/249479
+ext,|ES| M CINE N FHD,http://pythontv.net:8789/luis12/pMQuMbm/626
+TCM.es,|ES| M TCM FHD,http://pythontv.net:8789/luis12/pMQuMbm/7705
+ext,|ES| M TNT FHD,http://pythontv.net:8789/luis12/pMQuMbm/629
+Alquiler2.es,|ES| ALQUILER 2,http://pythontv.net:8789/luis12/pMQuMbm/108717
+Alquiler3.es,|ES| ALQUILER 3,http://pythontv.net:8789/luis12/pMQuMbm/108718
+Alquiler5.es,|ES| ALQUILER 5,http://pythontv.net:8789/luis12/pMQuMbm/108720
+Alquiler6.es,|ES| ALQUILER 6,http://pythontv.net:8789/luis12/pMQuMbm/108721
+Alquiler9.es,|ES| ALQUILER 9,http://pythontv.net:8789/luis12/pMQuMbm/108724
+Dark.es,|ES| DARK HD,http://pythontv.net:8789/luis12/pMQuMbm/116523
+Cero.es,|ES| M #0 FHD,http://pythontv.net:8789/luis12/pMQuMbm/11340
+Cero.es,|ES| M #0 HD,http://pythontv.net:8789/luis12/pMQuMbm/625
+
+group,EU| SPAIN ENTERTENIMIENTO
+ext,|ES| M COSMO FHD,http://pythontv.net:8789/luis12/pMQuMbm/11345
+ext,|ES| M+ SERIES FHD,http://pythontv.net:8789/luis12/pMQuMbm/255103
+ext,|ES| M SERIES HD,http://pythontv.net:8789/luis12/pMQuMbm/664
+ext,|ES| M+ SERIES SD,http://pythontv.net:8789/luis12/pMQuMbm/255102
+ext,|ES| M+ SERIES 2 FHD,http://pythontv.net:8789/luis12/pMQuMbm/255117
+ext,|ES| C+ SERIES 2 HD,http://pythontv.net:8789/luis12/pMQuMbm/255116
+ext,|ES| M+ SERIES 2 SD,http://pythontv.net:8789/luis12/pMQuMbm/255115
+Fox.es,|ES| FOX SD,http://pythontv.net:8789/luis12/pMQuMbm/255118
+ext,|ES| M COMEDY CENTRAL FHD,http://pythontv.net:8789/luis12/pMQuMbm/2799
+ext,|ES| M COMEDY CENTRAL HD,http://pythontv.net:8789/luis12/pMQuMbm/2798
+ComedyCentral.es,|ES| COMEDY CENTRAL SD,http://pythontv.net:8789/luis12/pMQuMbm/255105
+FDF.es,|ES| FDF SD,http://pythontv.net:8789/luis12/pMQuMbm/2800
+ext,|ES| A3SERIES HD,http://pythontv.net:8789/luis12/pMQuMbm/674
+ext,|ES| A3 SERIES SD,http://pythontv.net:8789/luis12/pMQuMbm/255104
+Fox.es,|ES| FOX FHD,http://pythontv.net:8789/luis12/pMQuMbm/7715
+Fox.es,|ES| FOX HD,http://pythontv.net:8789/luis12/pMQuMbm/514
+ext,|ES| M AXN FHD,http://pythontv.net:8789/luis12/pMQuMbm/631
+AXNhd.es,|ES| AXN HD,http://pythontv.net:8789/luis12/pMQuMbm/255107
+AXNhd.es,|ES| AXN SD,http://pythontv.net:8789/luis12/pMQuMbm/255106
+ext,|ES| M AXN WHITE FHD,http://pythontv.net:8789/luis12/pMQuMbm/632
+ext,|ES| M AXN WHITE HD,http://pythontv.net:8789/luis12/pMQuMbm/11342
+ext,|ES| M SYFY FHD,http://pythontv.net:8789/luis12/pMQuMbm/633
+ext,|ES| M SYFY HD,http://pythontv.net:8789/luis12/pMQuMbm/11343
+Scifi.es,|ES| SYFY SD,http://pythontv.net:8789/luis12/pMQuMbm/255109
+ext,|ES| M NOVA HD,http://pythontv.net:8789/luis12/pMQuMbm/7708
+ext,|ES| M NEOX HD,http://pythontv.net:8789/luis12/pMQuMbm/7709
+Neox.es,|ES| NEOX SD,http://pythontv.net:8789/luis12/pMQuMbm/255113
+ext,|ES| DIVINITY HD,http://pythontv.net:8789/luis12/pMQuMbm/255119
+ext,|ES| M DIVINITY,http://pythontv.net:8789/luis12/pMQuMbm/7145
+ext,|ES| M CALLE 13 FHD,http://pythontv.net:8789/luis12/pMQuMbm/11344
+ext,|ES| M CALLE13 HD,http://pythontv.net:8789/luis12/pMQuMbm/526
+ext,|ES| ENERGY HD,http://pythontv.net:8789/luis12/pMQuMbm/255110
+ext,|ES| M ENERGY SD,http://pythontv.net:8789/luis12/pMQuMbm/988
+ext,|ES| CANAL COCINA FHD,http://pythontv.net:8789/luis12/pMQuMbm/672
+ext,|ES| CANAL COCINA  HD,http://pythontv.net:8789/luis12/pMQuMbm/47377
+Cocina.es,|ES| CANAL COCINA SD,http://pythontv.net:8789/luis12/pMQuMbm/255114
+ext,|ES| BE MAD FHD,http://pythontv.net:8789/luis12/pMQuMbm/255112
+ext,|ES| BE MAD HD,http://pythontv.net:8789/luis12/pMQuMbm/1864
+ext,|ES| BE MAD SD,http://pythontv.net:8789/luis12/pMQuMbm/255111
+ext,|ES| FDF HD,http://pythontv.net:8789/luis12/pMQuMbm/47374
+AXNWhite.es,|ES| AXN WHITE SD,http://pythontv.net:8789/luis12/pMQuMbm/255108
+
+group,EU| ESPAGNE HEVC
+ext,|ES| LA 1 HEVC,http://pythontv.net:8789/luis12/pMQuMbm/47382
+ext,|ES| LA 2 HEVC,http://pythontv.net:8789/luis12/pMQuMbm/47383
+ext,|ES| ANTENA 3 HEVC,http://pythontv.net:8789/luis12/pMQuMbm/47385
+ext,|ES| CUATRO HEVC,http://pythontv.net:8789/luis12/pMQuMbm/47386
+ext,|ES| TELECINCO HEVC,http://pythontv.net:8789/luis12/pMQuMbm/47387
+ext,|ES| LA SEXTA HEVC,http://pythontv.net:8789/luis12/pMQuMbm/47388
+ext,|ES| ARAGON TV HEVC,http://pythontv.net:8789/luis12/pMQuMbm/47389
+ext,|ES| CLAN TVE HEVC,http://pythontv.net:8789/luis12/pMQuMbm/47390
+ext,|ES| NOVA HEVC,http://pythontv.net:8789/luis12/pMQuMbm/47391
+ext,|ES| NEOX HEVC,http://pythontv.net:8789/luis12/pMQuMbm/47392
+ext,|ES| CANAL SUR A HEVC,http://pythontv.net:8789/luis12/pMQuMbm/47393
+ext,|ES| M. ESTRENOS HEVC,http://pythontv.net:8789/luis12/pMQuMbm/47452
+ext,|ES| M. ESTRENOS 2 HEVC,http://pythontv.net:8789/luis12/pMQuMbm/107490
+ext,|ES| M. ACCION HEVC,http://pythontv.net:8789/luis12/pMQuMbm/47453
+ext,|ES| M. COMEDIA HEVC,http://pythontv.net:8789/luis12/pMQuMbm/47454
+ext,|ES| M. DRAMA HEVC,http://pythontv.net:8789/luis12/pMQuMbm/47455
+ext,|ES| M. CINE N HEVC,http://pythontv.net:8789/luis12/pMQuMbm/47457
+ext,|ES| M. SERIES HEVC,http://pythontv.net:8789/luis12/pMQuMbm/47458
+ext,|ES| HOLLYWOOD HEVC,http://pythontv.net:8789/luis12/pMQuMbm/47459
+ext,|ES| TCM HEVC,http://pythontv.net:8789/luis12/pMQuMbm/47460
+ext,|ES| TNT HEVC,http://pythontv.net:8789/luis12/pMQuMbm/47461
+ext,|ES| PARAMOUNT CHANNEL HEVC,http://pythontv.net:8789/luis12/pMQuMbm/47462
+ext,|ES| #0 HEVC,http://pythontv.net:8789/luis12/pMQuMbm/47464
+ext,|ES| M. SERIES 2 HEVC,http://pythontv.net:8789/luis12/pMQuMbm/47465
+ext,|ES| FOX HEVC,http://pythontv.net:8789/luis12/pMQuMbm/47466
+ext,|ES| FOX LIFE HEVC,http://pythontv.net:8789/luis12/pMQuMbm/47467
+ext,|ES| AXN HEVC,http://pythontv.net:8789/luis12/pMQuMbm/47468
+ext,|ES| AXN WHITE HEVC,http://pythontv.net:8789/luis12/pMQuMbm/47469
+ext,|ES| SYFY HEVC,http://pythontv.net:8789/luis12/pMQuMbm/47470
+ext,|ES| COMEDY CENTRAL HEVC,http://pythontv.net:8789/luis12/pMQuMbm/47472
+ext,|ES| CANAL DECASA HEVC,http://pythontv.net:8789/luis12/pMQuMbm/47473
+ext,|ES| DKISS HEVC,http://pythontv.net:8789/luis12/pMQuMbm/107468
+ext,|ES| AMC HEVC,http://pythontv.net:8789/luis12/pMQuMbm/47474
+ext,|ES| COSMO HEVC,http://pythontv.net:8789/luis12/pMQuMbm/47475
+ext,|ES| CALLE 13 HEVC,http://pythontv.net:8789/luis12/pMQuMbm/47476
+ext,|ES|  DIVINITY HEVC,http://pythontv.net:8789/luis12/pMQuMbm/47477
+ext,|ES| ENERGY HEVC,http://pythontv.net:8789/luis12/pMQuMbm/47478
+ext,|ES|  # VAMOS HEVC,http://pythontv.net:8789/luis12/pMQuMbm/47480
+ext,|ES| LA LIGA TV BAR HEVC,http://pythontv.net:8789/luis12/pMQuMbm/47481
+ext,|ES| M. LALIGA HEVC,http://pythontv.net:8789/luis12/pMQuMbm/47482
+ext,|ES| M. LALIGA1 HD HEVC,http://pythontv.net:8789/luis12/pMQuMbm/47483
+ext,|ES| M. LaLiga 2 HEVC,http://pythontv.net:8789/luis12/pMQuMbm/107493
+ext,|ES| M. LaLiga 3 HEVC,http://pythontv.net:8789/luis12/pMQuMbm/107491
+ext,|ES| DAZN 1 HEVC,http://pythontv.net:8789/luis12/pMQuMbm/107495
+ext,|ES| DAZN 2 HEVC,http://pythontv.net:8789/luis12/pMQuMbm/107487
+ext,|ES| DAZN 3 HEVC,http://pythontv.net:8789/luis12/pMQuMbm/107494
+ext,|ES| DAZN 4 HEVC,http://pythontv.net:8789/luis12/pMQuMbm/107488
+ext,|ES| M. GOLF HEVC,http://pythontv.net:8789/luis12/pMQuMbm/47485
+ext,|ES| M. DEPORTES HEVC,http://pythontv.net:8789/luis12/pMQuMbm/47488
+ext,|ES| LIGA DE CAMPEONES HEVC,http://pythontv.net:8789/luis12/pMQuMbm/47489
+ext,|ES| LIGA DE CAMPEONES 2 HEVC,http://pythontv.net:8789/luis12/pMQuMbm/107492
+ext,|ES| GOL TV HEVC,http://pythontv.net:8789/luis12/pMQuMbm/47490
+ext,|ES| TELEDEPORTE HEVC,http://pythontv.net:8789/luis12/pMQuMbm/47491
+ext,|ES| REAL MADRID TV HEVC,http://pythontv.net:8789/luis12/pMQuMbm/47492
+ext,|ES| BARCA TV HEVC,http://pythontv.net:8789/luis12/pMQuMbm/47493
+ext,|ES| IBERALIA TV HEVC,http://pythontv.net:8789/luis12/pMQuMbm/47496
+ext,|ES| CANAL ODISEA HEVC,http://pythontv.net:8789/luis12/pMQuMbm/47497
+ext,|ES| NAT GEO WILD HEVC,http://pythontv.net:8789/luis12/pMQuMbm/47498
+ext,|ES| NAT GEOGRAPHIC HEVC,http://pythontv.net:8789/luis12/pMQuMbm/47499
+ext,|ES| DISCOVERY CHANNEL HEVC,http://pythontv.net:8789/luis12/pMQuMbm/47500
+ext,|ES| FACTORIA DE FICCION HEVC,http://pythontv.net:8789/luis12/pMQuMbm/47501
+ext,|ES| CRIMEN INVESTIGACION HEVC,http://pythontv.net:8789/luis12/pMQuMbm/47502
+ext,|ES| CAZA & PESCA HEVC,http://pythontv.net:8789/luis12/pMQuMbm/47503
+ext,|ES| CANAL COCINA HEVC,http://pythontv.net:8789/luis12/pMQuMbm/47504
+ext,|ES| TOROS HEVC,http://pythontv.net:8789/luis12/pMQuMbm/47505
+ext,|ES| BLAZE HEVC,http://pythontv.net:8789/luis12/pMQuMbm/47506
+ext,|ES| HISTORIA HEVC,http://pythontv.net:8789/luis12/pMQuMbm/47507
+ext,|ES| BOING HEVC,http://pythontv.net:8789/luis12/pMQuMbm/47510
+ext,|ES| CANAL PANDA HEVC,http://pythontv.net:8789/luis12/pMQuMbm/47511
+ext,|ES| BABY TV HEVC,http://pythontv.net:8789/luis12/pMQuMbm/47512
+ext,|ES| DISNEY CHANNEL HEVC,http://pythontv.net:8789/luis12/pMQuMbm/47513
+ext,|ES| DISNEY JUNIOR HEVC,http://pythontv.net:8789/luis12/pMQuMbm/47514
+ext,|ES| DISNEY XD HEVC,http://pythontv.net:8789/luis12/pMQuMbm/47515
+ext,|ES| NICK JR HEVC,http://pythontv.net:8789/luis12/pMQuMbm/47516
+ext,|ES| NICKELODEON HEVC,http://pythontv.net:8789/luis12/pMQuMbm/47517
+ext,|ES| MTV ESPANA HEVC,http://pythontv.net:8789/luis12/pMQuMbm/47519
+ext,|ES| CLASSICA HEVC,http://pythontv.net:8789/luis12/pMQuMbm/47520
+ext,|ES| MEZZO LIVE HEVC,http://pythontv.net:8789/luis12/pMQuMbm/47521
+
+group,US| USA NBA
+ext,|US| NBA TV FHD,http://pythontv.net:8789/luis12/pMQuMbm/119432
+ext,| US | NBA TV HD,http://pythontv.net:8789/luis12/pMQuMbm/251316
+ext,|US| NBA TV HD,http://pythontv.net:8789/luis12/pMQuMbm/119431
+ext,|US|  NBA TV (PT),http://pythontv.net:8789/luis12/pMQuMbm/251218
+ext,| US | NBA PHOENIX SUNS,http://pythontv.net:8789/luis12/pMQuMbm/251304
+ext,| US | NBA PHOENIX SUNS SD,http://pythontv.net:8789/luis12/pMQuMbm/251266
+ext,| US | NBA PHOENIX SUNS HD,http://pythontv.net:8789/luis12/pMQuMbm/251265
+ext,| US | NBA PORTLAND TRAIL Blazers (POR),http://pythontv.net:8789/luis12/pMQuMbm/251297
+ext,| US | NBA PORTLAND TRAIL BLAZERS SD,http://pythontv.net:8789/luis12/pMQuMbm/251268
+ext,| US | NBA PORTLAND TRAIL BLAZERS HD,http://pythontv.net:8789/luis12/pMQuMbm/251267
+ext,| US | NBA GOLDEN STATE WARRIORS (GSW),http://pythontv.net:8789/luis12/pMQuMbm/251293
+ext,| US | NBA GOLDEN STATE WARRIORS  SD,http://pythontv.net:8789/luis12/pMQuMbm/251238
+ext,| US | NBA GOLDEN STATE WARRIORS FHD,http://pythontv.net:8789/luis12/pMQuMbm/251237
+ext,| US | NBA INDIANA Pacers FHD,http://pythontv.net:8789/luis12/pMQuMbm/251241
+ext,| US | NBA INDIANA Pacers (IND),http://pythontv.net:8789/luis12/pMQuMbm/251289
+ext,| US | NBA INDIANA Pacers SD,http://pythontv.net:8789/luis12/pMQuMbm/251242
+ext,| US | NBA DETROIT Pistons (DET),http://pythontv.net:8789/luis12/pMQuMbm/251283
+ext,| US | NBA DETROIT PISTONS SD,http://pythontv.net:8789/luis12/pMQuMbm/251236
+ext,| US | NBA DETROIT PISTONS FHD,http://pythontv.net:8789/luis12/pMQuMbm/251235
+ext,| US | NBA WASHINGTON Wizards SD,http://pythontv.net:8789/luis12/pMQuMbm/251278
+ext,| US | NBA WASHINGTON Wizards FHD,http://pythontv.net:8789/luis12/pMQuMbm/251277
+ext,| US | NBA UTAH JAZZ SD,http://pythontv.net:8789/luis12/pMQuMbm/251276
+ext,| US | NBA UTAH JAZZ FHD,http://pythontv.net:8789/luis12/pMQuMbm/251275
+ext,| US | NBA TORONTO RAPTORS SD,http://pythontv.net:8789/luis12/pMQuMbm/251274
+ext,| US | NBA TORONTO RAPTORS FHD,http://pythontv.net:8789/luis12/pMQuMbm/251273
+ext,| US | NBA SAN ANTONIO SPURS SD,http://pythontv.net:8789/luis12/pMQuMbm/251272
+ext,| US | NBA SAN ANTONIO SPURS FHD,http://pythontv.net:8789/luis12/pMQuMbm/251271
+ext,| US | NBA SACRAMENTO KINGS SD,http://pythontv.net:8789/luis12/pMQuMbm/251270
+ext,| US | NBA SACRAMENTO KINGS FHD,http://pythontv.net:8789/luis12/pMQuMbm/251269
+ext,| US | NBA PHILADELPHIA 76ers SD,http://pythontv.net:8789/luis12/pMQuMbm/251264
+ext,| US | NBA PHILADELPHIA 76ers FHD,http://pythontv.net:8789/luis12/pMQuMbm/251263
+ext,| US | NBA ORLANDO MAGIC  SD,http://pythontv.net:8789/luis12/pMQuMbm/251262
+ext,| US | NBA ORLANDO MAGIC FHD,http://pythontv.net:8789/luis12/pMQuMbm/251261
+ext,| US | NBA OKLAHOMA CITY THUNDER SD,http://pythontv.net:8789/luis12/pMQuMbm/251260
+ext,| US | NBA OKLAHOMA CITY THUNDER FHD,http://pythontv.net:8789/luis12/pMQuMbm/251259
+ext,| US | NBA NEW YORK KNICKS SD,http://pythontv.net:8789/luis12/pMQuMbm/251258
+ext,| US | NBA NEW YORK KNICKS FHD,http://pythontv.net:8789/luis12/pMQuMbm/251257
+ext,| US | NBA NEW ORLEANS PELICANS SD,http://pythontv.net:8789/luis12/pMQuMbm/251256
+ext,| US | NBA NEW ORLEANS PELICANS FHD,http://pythontv.net:8789/luis12/pMQuMbm/251255
+ext,| US | NBA MINNESOTA TIMBERWOLVES SD,http://pythontv.net:8789/luis12/pMQuMbm/251254
+ext,| US | NBA MINNESOTA TIMBERWOLVES FHD,http://pythontv.net:8789/luis12/pMQuMbm/251253
+ext,| US | NBA MILWAUKEE BUCKS SD,http://pythontv.net:8789/luis12/pMQuMbm/251252
+ext,| US | NBA MILWAUKEE BUCKS  FHD,http://pythontv.net:8789/luis12/pMQuMbm/251251
+ext,| US | NBA MIAMI HEAT SD,http://pythontv.net:8789/luis12/pMQuMbm/251250
+ext,| US | NBA MIAMI HEAT FHD,http://pythontv.net:8789/luis12/pMQuMbm/251249
+ext,| US | NBA MEMPHIS GRIZZLIES SD,http://pythontv.net:8789/luis12/pMQuMbm/251248
+ext,| US | NBA MEMPHIS GRIZZLIES FHD,http://pythontv.net:8789/luis12/pMQuMbm/251247
+ext,| US | NBA LOS ANGELES LAKERS  SD,http://pythontv.net:8789/luis12/pMQuMbm/251246
+ext,| US | NBA LOS ANGELES LAKERS FHD,http://pythontv.net:8789/luis12/pMQuMbm/251245
+ext,| US | NBA  LOS ANGELES CLIPPERS SD,http://pythontv.net:8789/luis12/pMQuMbm/251244
+ext,| US | NBA LOS ANGELES CLIPPERS FHD,http://pythontv.net:8789/luis12/pMQuMbm/251243
+ext,| US | NBA HOUSTON Rockets SD,http://pythontv.net:8789/luis12/pMQuMbm/251240
+ext,| US | NBA HOUSTON Rockets FHD,http://pythontv.net:8789/luis12/pMQuMbm/251239
+ext,| US | NBA DENVER  Nuggets SD,http://pythontv.net:8789/luis12/pMQuMbm/251234
+ext,| US | NBA DENVER Nuggets FHD,http://pythontv.net:8789/luis12/pMQuMbm/251233
+ext,| US | NBA DALLAS  Mavericks SD,http://pythontv.net:8789/luis12/pMQuMbm/251232
+ext,| US | NBA DALLAS  Mavericks FHD,http://pythontv.net:8789/luis12/pMQuMbm/251231
+ext,| US | NBA CLEVELAND  Cavaliers SD,http://pythontv.net:8789/luis12/pMQuMbm/251230
+ext,| US | NBA CLEVELAND Cavaliers FHD,http://pythontv.net:8789/luis12/pMQuMbm/251229
+ext,| US | NBA CHICAGO Bulls SD,http://pythontv.net:8789/luis12/pMQuMbm/251228
+ext,| US | NBA CHICAGO Bulls FHD,http://pythontv.net:8789/luis12/pMQuMbm/251227
+ext,| US | NBA CHARLOTTE Hornets SD,http://pythontv.net:8789/luis12/pMQuMbm/251226
+ext,| US | NBA CHARLOTTE Hornets HD,http://pythontv.net:8789/luis12/pMQuMbm/251225
+ext,| US | NBA Brooklyn Nets SD,http://pythontv.net:8789/luis12/pMQuMbm/251224
+ext,| US | NBA BROOKLYN Nets HD,http://pythontv.net:8789/luis12/pMQuMbm/251223
+ext,| US | NBA BOSTON Celtics SD,http://pythontv.net:8789/luis12/pMQuMbm/251222
+ext,| US | NBA BOSTON Celtics FHD,http://pythontv.net:8789/luis12/pMQuMbm/251221
+ext,| US | NBA ATLANTA Hawks SD,http://pythontv.net:8789/luis12/pMQuMbm/251220
+ext,| US | NBA ATLANTA Hawks FHD,http://pythontv.net:8789/luis12/pMQuMbm/251219
+ext,|US|  NBA LEAGUE PASS 1 (D),http://pythontv.net:8789/luis12/pMQuMbm/238605
+ext,|US|  NBA LEAGUE PASS 2 (D),http://pythontv.net:8789/luis12/pMQuMbm/238604
+ext,|US|  NBA LEAGUE PASS 3 (D),http://pythontv.net:8789/luis12/pMQuMbm/238603
+ext,|US|  NBA LEAGUE PASS 4 (D),http://pythontv.net:8789/luis12/pMQuMbm/238602
+ext,|US|  NBA LEAGUE PASS 5 (D),http://pythontv.net:8789/luis12/pMQuMbm/238601
+ext,|US|  NBA LEAGUE PASS 6 (D),http://pythontv.net:8789/luis12/pMQuMbm/238600
+ext,|US|  NBA LEAGUE PASS 7 (D),http://pythontv.net:8789/luis12/pMQuMbm/238599
+ext,|US| NBA LEAGUE PASS 8,http://pythontv.net:8789/luis12/pMQuMbm/238598
+
+group,US| NFL & NHL & MLB
+ext,|US| NFL NETWORK FHD,http://pythontv.net:8789/luis12/pMQuMbm/119264
+ext,|US| NFL NETWORK HD,http://pythontv.net:8789/luis12/pMQuMbm/119265
+ext,|US| NFL REDZONE HD,http://pythontv.net:8789/luis12/pMQuMbm/119268
+ext,|US| NFL REDZONE FHD,http://pythontv.net:8789/luis12/pMQuMbm/119266
+ext,| US | NFL REDZONE (LOW),http://pythontv.net:8789/luis12/pMQuMbm/251047
+ext,| US | NFL Network HD (F),http://pythontv.net:8789/luis12/pMQuMbm/251045
+ext,| US | NFL Network (V),http://pythontv.net:8789/luis12/pMQuMbm/251043
+ext,| US | NFL Channel (PC),http://pythontv.net:8789/luis12/pMQuMbm/251041
+ext,| US | NFL-VIKINGS SD,http://pythontv.net:8789/luis12/pMQuMbm/251039
+ext,| US | NFL-VIKINGS HD,http://pythontv.net:8789/luis12/pMQuMbm/251038
+ext,| US | NFL-VIKINGS FHD,http://pythontv.net:8789/luis12/pMQuMbm/251037
+ext,| US | NFL-TITANS SD,http://pythontv.net:8789/luis12/pMQuMbm/251036
+ext,| US | NFL-TITANS HD,http://pythontv.net:8789/luis12/pMQuMbm/251035
+ext,| US | NFL-TEXANS SD,http://pythontv.net:8789/luis12/pMQuMbm/251033
+ext,| US | NFL-TEXANS HD,http://pythontv.net:8789/luis12/pMQuMbm/251032
+ext,| US | NFL-TEXANS,http://pythontv.net:8789/luis12/pMQuMbm/251031
+ext,| US | NFL-Steelers SD,http://pythontv.net:8789/luis12/pMQuMbm/251030
+ext,| US | NFL-Steelers HD,http://pythontv.net:8789/luis12/pMQuMbm/251029
+ext,| US | NFL-Steelers FHD,http://pythontv.net:8789/luis12/pMQuMbm/251028
+ext,| US | NFL-Seahawks SD,http://pythontv.net:8789/luis12/pMQuMbm/251027
+ext,| US | NFL-Seahawks HD,http://pythontv.net:8789/luis12/pMQuMbm/251026
+ext,| US | NFL-Seahawks FHD,http://pythontv.net:8789/luis12/pMQuMbm/251025
+ext,| US | NFL-Saints SD,http://pythontv.net:8789/luis12/pMQuMbm/251024
+ext,| US | NFL-Saints HD,http://pythontv.net:8789/luis12/pMQuMbm/251023
+ext,| US | NFL-Saints FHD,http://pythontv.net:8789/luis12/pMQuMbm/251022
+ext,| US | NFL-Redskins SD,http://pythontv.net:8789/luis12/pMQuMbm/251021
+ext,| US | NFL-Redskins HD,http://pythontv.net:8789/luis12/pMQuMbm/251020
+ext,| US | NFL-Redskins,http://pythontv.net:8789/luis12/pMQuMbm/251019
+ext,| US | NFL-Ravens SD,http://pythontv.net:8789/luis12/pMQuMbm/251018
+ext,| US | NFL-Ravens HD,http://pythontv.net:8789/luis12/pMQuMbm/251017
+ext,| US | NFL-Ravens FHD,http://pythontv.net:8789/luis12/pMQuMbm/251016
+ext,| US | NFL-Rams SD,http://pythontv.net:8789/luis12/pMQuMbm/251015
+ext,| US | NFL-Rams HD,http://pythontv.net:8789/luis12/pMQuMbm/251014
+ext,| US | NFL-Rams FHD,http://pythontv.net:8789/luis12/pMQuMbm/251013
+ext,| US | NFL-Raiders SD,http://pythontv.net:8789/luis12/pMQuMbm/251012
+ext,| US | NFL-Raiders HD,http://pythontv.net:8789/luis12/pMQuMbm/251011
+ext,| US | NFL-Raiders FHD,http://pythontv.net:8789/luis12/pMQuMbm/251010
+ext,| US | NFL-Patriots SD,http://pythontv.net:8789/luis12/pMQuMbm/251009
+ext,| US | NFL-Patriots HD,http://pythontv.net:8789/luis12/pMQuMbm/251008
+ext,| US | NFL-Patriots FHD,http://pythontv.net:8789/luis12/pMQuMbm/251007
+ext,| US | NFL-Panthers SD,http://pythontv.net:8789/luis12/pMQuMbm/251006
+ext,| US | NFL-Panthers HD,http://pythontv.net:8789/luis12/pMQuMbm/251005
+ext,| US | NFL-Panthers FHD,http://pythontv.net:8789/luis12/pMQuMbm/251004
+ext,| US | NFL-Packers SD,http://pythontv.net:8789/luis12/pMQuMbm/251003
+ext,| US | NFL-Packers HD,http://pythontv.net:8789/luis12/pMQuMbm/251002
+ext,| US | NFL-Packers FHD,http://pythontv.net:8789/luis12/pMQuMbm/251001
+ext,| US | NFL-Lions SD,http://pythontv.net:8789/luis12/pMQuMbm/251000
+ext,| US | NFL-Lions HD,http://pythontv.net:8789/luis12/pMQuMbm/250999
+ext,| US | NFL-Lions FHD,http://pythontv.net:8789/luis12/pMQuMbm/250998
+ext,| US | NFL-Jets SD,http://pythontv.net:8789/luis12/pMQuMbm/250997
+ext,| US | NFL-Jets HD,http://pythontv.net:8789/luis12/pMQuMbm/250996
+ext,| US | NFL-Jets FHD,http://pythontv.net:8789/luis12/pMQuMbm/250995
+ext,| US | NFL-JAGUARS SD,http://pythontv.net:8789/luis12/pMQuMbm/250994
+ext,| US | NFL-JAGUARS HD,http://pythontv.net:8789/luis12/pMQuMbm/250993
+ext,| US | NFL-JAGUARS FHD,http://pythontv.net:8789/luis12/pMQuMbm/250992
+ext,| US | NFL-GIANTS SD,http://pythontv.net:8789/luis12/pMQuMbm/250991
+ext,| US | NFL-GIANTS HD,http://pythontv.net:8789/luis12/pMQuMbm/250990
+ext,| US | NFL-GIANTS FHD,http://pythontv.net:8789/luis12/pMQuMbm/250989
+ext,| US | NFL-FALCONS SD,http://pythontv.net:8789/luis12/pMQuMbm/250988
+ext,| US | NFL-FALCONS HD,http://pythontv.net:8789/luis12/pMQuMbm/250987
+ext,| US | NFL-FALCONS FHD,http://pythontv.net:8789/luis12/pMQuMbm/250986
+ext,| US | NFL-EAGLES SD,http://pythontv.net:8789/luis12/pMQuMbm/250985
+ext,| US | NFL-EAGLES HD,http://pythontv.net:8789/luis12/pMQuMbm/250984
+ext,| US | NFL-EAGLES FHD,http://pythontv.net:8789/luis12/pMQuMbm/250983
+ext,| US | NFL-DOLPHINS SD,http://pythontv.net:8789/luis12/pMQuMbm/250982
+ext,| US | NFL-DOLPHINS HD,http://pythontv.net:8789/luis12/pMQuMbm/250981
+ext,| US | NFL-DOLPHINS FHD,http://pythontv.net:8789/luis12/pMQuMbm/250980
+ext,| US | NFL-COWBOYS SD,http://pythontv.net:8789/luis12/pMQuMbm/250979
+ext,| US | NFL-COWBOYS HD,http://pythontv.net:8789/luis12/pMQuMbm/250978
+ext,| US | NFL-COWBOYS FHD,http://pythontv.net:8789/luis12/pMQuMbm/250977
+ext,| US | NFL-Colts SD,http://pythontv.net:8789/luis12/pMQuMbm/250976
+ext,| US | NFL-Colts HD,http://pythontv.net:8789/luis12/pMQuMbm/250975
+ext,| US | NFL-Colts FHD,http://pythontv.net:8789/luis12/pMQuMbm/250974
+ext,| US | NFL-Chiefs SD,http://pythontv.net:8789/luis12/pMQuMbm/250973
+ext,| US | NFL-Chiefs HD,http://pythontv.net:8789/luis12/pMQuMbm/250972
+ext,| US | NFL-Chiefs FHD,http://pythontv.net:8789/luis12/pMQuMbm/250971
+ext,| US | NFL-CHARGERS SD,http://pythontv.net:8789/luis12/pMQuMbm/250970
+ext,| US | NFL-CHARGERS HD,http://pythontv.net:8789/luis12/pMQuMbm/250969
+ext,| US | NFL-CHARGERS FHD,http://pythontv.net:8789/luis12/pMQuMbm/250968
+ext,| US | NFL-Cardinals SD,http://pythontv.net:8789/luis12/pMQuMbm/250967
+ext,| US | NFL-Cardinals HD,http://pythontv.net:8789/luis12/pMQuMbm/250966
+ext,| US | NFL-Cardinals FHD,http://pythontv.net:8789/luis12/pMQuMbm/250965
+ext,| US | NFL-Buccaneers SD,http://pythontv.net:8789/luis12/pMQuMbm/250964
+ext,| US | NFL-Buccaneers HD,http://pythontv.net:8789/luis12/pMQuMbm/250963
+ext,| US | NFL-Buccaneers FHD,http://pythontv.net:8789/luis12/pMQuMbm/250962
+ext,| US | NFL-Browns SD,http://pythontv.net:8789/luis12/pMQuMbm/250961
+ext,| US | NFL-Browns HD,http://pythontv.net:8789/luis12/pMQuMbm/250960
+ext,| US | NFL-Browns FHD,http://pythontv.net:8789/luis12/pMQuMbm/250959
+ext,| US | NFL-Broncos SD,http://pythontv.net:8789/luis12/pMQuMbm/250958
+ext,| US | NFL-Broncos HD,http://pythontv.net:8789/luis12/pMQuMbm/250957
+ext,| US | NFL-Broncos FHD,http://pythontv.net:8789/luis12/pMQuMbm/250956
+ext,| US | NFL-Bills SD,http://pythontv.net:8789/luis12/pMQuMbm/250955
+ext,| US | NFL-Bills HD,http://pythontv.net:8789/luis12/pMQuMbm/250954
+ext,| US | NFL-Bills FHD,http://pythontv.net:8789/luis12/pMQuMbm/250953
+ext,| US | NFL-Bengals SD,http://pythontv.net:8789/luis12/pMQuMbm/250952
+ext,| US | NFL-Bengals HD,http://pythontv.net:8789/luis12/pMQuMbm/250951
+ext,| US | NFL-Bengals FHD,http://pythontv.net:8789/luis12/pMQuMbm/250950
+ext,| US | NFL-Bears SD,http://pythontv.net:8789/luis12/pMQuMbm/250949
+ext,| US | NFL-Bears HD,http://pythontv.net:8789/luis12/pMQuMbm/250948
+ext,| US | NFL Bears FHD,http://pythontv.net:8789/luis12/pMQuMbm/250947
+ext,| US | NFL 49ers SD,http://pythontv.net:8789/luis12/pMQuMbm/250946
+ext,| US | NFL 49ers HD,http://pythontv.net:8789/luis12/pMQuMbm/250945
+ext,| US | NFL 49ers FHD,http://pythontv.net:8789/luis12/pMQuMbm/250944
+ext,|US| NFL NETWORK 1 HD,http://pythontv.net:8789/luis12/pMQuMbm/119230
+ext,|US| NFL NETWORK 1,http://pythontv.net:8789/luis12/pMQuMbm/250943
+ext,|US| NFL NETWORK 2,http://pythontv.net:8789/luis12/pMQuMbm/250942
+ext,| US | NFL NETWORK 2,http://pythontv.net:8789/luis12/pMQuMbm/250923
+ext,| US | NFL NETWORK 3,http://pythontv.net:8789/luis12/pMQuMbm/250922
+ext,| US | NFL NETWORK 4,http://pythontv.net:8789/luis12/pMQuMbm/250921
+ext,| US | NFL NETWORL ALT2,http://pythontv.net:8789/luis12/pMQuMbm/250920
+ext,| US | NFL NETWORK ALT3,http://pythontv.net:8789/luis12/pMQuMbm/250919
+ext,|US| NFL NETWORK 5,http://pythontv.net:8789/luis12/pMQuMbm/250939
+ext,|US| NFL NETWORK 6,http://pythontv.net:8789/luis12/pMQuMbm/250938
+ext,|US| NFL NETWORK 7,http://pythontv.net:8789/luis12/pMQuMbm/250937
+ext,|US| NFL NETWORK 8,http://pythontv.net:8789/luis12/pMQuMbm/250936
+ext,|US| NFL NETWORK 9,http://pythontv.net:8789/luis12/pMQuMbm/250935
+ext,|US| NFL NETWORK 10,http://pythontv.net:8789/luis12/pMQuMbm/250934
+ext,|US| NFL NETWORK  11,http://pythontv.net:8789/luis12/pMQuMbm/250933
+ext,|US| NFL NETWORK 12,http://pythontv.net:8789/luis12/pMQuMbm/250932
+ext,|US| NFL NETWORK 13,http://pythontv.net:8789/luis12/pMQuMbm/250931
+ext,|US| NFL NETWORK 14,http://pythontv.net:8789/luis12/pMQuMbm/250928
+ext,|US| NFL NETWORK 16,http://pythontv.net:8789/luis12/pMQuMbm/250929
+ext,|US NFL NETWORK 18,http://pythontv.net:8789/luis12/pMQuMbm/250926
+ext,|US| NFL NETWORK  Event 19,http://pythontv.net:8789/luis12/pMQuMbm/250925
+ext,|US| NFL NETWORK 19,http://pythontv.net:8789/luis12/pMQuMbm/250924
+
+group,LA| MEXICO
+ext,|MX| AZTECA UNO,http://pythontv.net:8789/luis12/pMQuMbm/43557
+ext,|MX| AZTECA 7 HD,http://pythontv.net:8789/luis12/pMQuMbm/43558
+ext,|MX| AZTECA CINEMA,http://pythontv.net:8789/luis12/pMQuMbm/43559
+ext,|MX| AZTECA CLIC,http://pythontv.net:8789/luis12/pMQuMbm/43560
+ext,|MX| AZTECA CORAZON,http://pythontv.net:8789/luis12/pMQuMbm/43561
+ext,|MX| AZTECA MUNDO,http://pythontv.net:8789/luis12/pMQuMbm/43562
+ext,|MX| UNICABLE FHD,http://pythontv.net:8789/luis12/pMQuMbm/43699
+ext,|MX| CANAL 5 HD,http://pythontv.net:8789/luis12/pMQuMbm/43567
+ext,|MX| CANAL ONCE HD,http://pythontv.net:8789/luis12/pMQuMbm/43569
+ext,|MX| A&E HD,http://pythontv.net:8789/luis12/pMQuMbm/43572
+ext,|MX| AXN HD,http://pythontv.net:8789/luis12/pMQuMbm/43573
+ext,|MX| LIFETIME HD,http://pythontv.net:8789/luis12/pMQuMbm/5351
+ext,|MX| A3 SERIES HD,http://pythontv.net:8789/luis12/pMQuMbm/43574
+ext,|MX| LAS ESTRELLAS HD,http://pythontv.net:8789/luis12/pMQuMbm/43576
+ext,|MX| DE PELICULA PLUS HD,http://pythontv.net:8789/luis12/pMQuMbm/43579
+ext,|MX| DiISTRITO COMEDIA FHD,http://pythontv.net:8789/luis12/pMQuMbm/43580
+ext,|MX| E! FHD,http://pythontv.net:8789/luis12/pMQuMbm/43581
+ext,|MX| EL GOURMET FHD,http://pythontv.net:8789/luis12/pMQuMbm/43582
+ext,|MX| FX HD,http://pythontv.net:8789/luis12/pMQuMbm/43586
+ext,|MX| SPACE FHD,http://pythontv.net:8789/luis12/pMQuMbm/43590
+ext,|MX| TBS HD,http://pythontv.net:8789/luis12/pMQuMbm/43593
+ext,|MX| GALA VISION,http://pythontv.net:8789/luis12/pMQuMbm/43594
+ext,|MX| GOLDEN EDGE HD,http://pythontv.net:8789/luis12/pMQuMbm/43597
+ext,|MX| GOLDEN FHD,http://pythontv.net:8789/luis12/pMQuMbm/43598
+ext,|MX| GOLDEN PLUS,http://pythontv.net:8789/luis12/pMQuMbm/43599
+ext,|MX| HOLA TV HD,http://pythontv.net:8789/luis12/pMQuMbm/43601
+ext,|MX| IMAGEN TV,http://pythontv.net:8789/luis12/pMQuMbm/43602
+ext,|MX| ADN 40 FHD,http://pythontv.net:8789/luis12/pMQuMbm/43604
+ext,|MX| BANDAMAX FHD,http://pythontv.net:8789/luis12/pMQuMbm/43605
+ext,|MX| BITME FHD,http://pythontv.net:8789/luis12/pMQuMbm/43606
+ext,|MX| FORMULA NOTICIAS HD,http://pythontv.net:8789/luis12/pMQuMbm/43612
+ext,|MX| CNN EN ESPANIOL,http://pythontv.net:8789/luis12/pMQuMbm/5341
+ext,|MX| STAR CHANEL,http://pythontv.net:8789/luis12/pMQuMbm/43620
+ext,|MX| CINECANAL FHD,http://pythontv.net:8789/luis12/pMQuMbm/43624
+ext,|MX| SONY CHANNEL FHD,http://pythontv.net:8789/luis12/pMQuMbm/5337
+ext,|MX| HBO,http://pythontv.net:8789/luis12/pMQuMbm/27552
+ext,|MX| CINEMAX FHD,http://pythontv.net:8789/luis12/pMQuMbm/43625
+ext,|MX| UNIVERSAL,http://pythontv.net:8789/luis12/pMQuMbm/5335
+ext,|MX| AMC FHD,http://pythontv.net:8789/luis12/pMQuMbm/43626
+ext,|MX| PARAMOUNT,http://pythontv.net:8789/luis12/pMQuMbm/5358
+ext,|MX| WARNER BROS TV HD,http://pythontv.net:8789/luis12/pMQuMbm/43629
+ext,|MX| DE PELICULA HD,http://pythontv.net:8789/luis12/pMQuMbm/43630
+ext,|MX| TNT FHD,http://pythontv.net:8789/luis12/pMQuMbm/43631
+ext,|MX| CINEMA DINAMITA,http://pythontv.net:8789/luis12/pMQuMbm/44165
+ext,|MX| NAT GEO HD,http://pythontv.net:8789/luis12/pMQuMbm/5336
+ext,|MX| DISCOVERY KIDS FHD,http://pythontv.net:8789/luis12/pMQuMbm/43638
+ext,|MX|  TLC HD,http://pythontv.net:8789/luis12/pMQuMbm/43641
+ext,|MX| DISCOVERY,http://pythontv.net:8789/luis12/pMQuMbm/5328
+ext,|MX| DISCOVERY H&H,http://pythontv.net:8789/luis12/pMQuMbm/5321
+ext,|MX|DISCOVERY TURBO,http://pythontv.net:8789/luis12/pMQuMbm/5326
+ext,|MX| INVESTIGATION DISCOVERY,http://pythontv.net:8789/luis12/pMQuMbm/5352
+ext,|MX| INVESTIGATION DISCOVERY FHD,http://pythontv.net:8789/luis12/pMQuMbm/43644
+ext,|MX| NATGEO WILD,http://pythontv.net:8789/luis12/pMQuMbm/5344
+ext,|MX| ANIMAL PLANET FHD,http://pythontv.net:8789/luis12/pMQuMbm/43647
+ext,|MX| FORO TV FHD,http://pythontv.net:8789/luis12/pMQuMbm/43650
+ext,|MX| ESPN 2 HD,http://pythontv.net:8789/luis12/pMQuMbm/43652
+ext,|MX| ESPN 3,http://pythontv.net:8789/luis12/pMQuMbm/43653
+ext,|MX| ESPN HD,http://pythontv.net:8789/luis12/pMQuMbm/43654
+ext,|MX| FOX SPORTS,http://pythontv.net:8789/luis12/pMQuMbm/43657
+ext,|MX| FOX SPORTS 2,http://pythontv.net:8789/luis12/pMQuMbm/43659
+ext,|MX| FOX SPORTS 3 HD,http://pythontv.net:8789/luis12/pMQuMbm/43660
+ext,|MX| CLARO SPORTS,http://pythontv.net:8789/luis12/pMQuMbm/44167
+ext,|MX| AYM SPORTS FHD,http://pythontv.net:8789/luis12/pMQuMbm/43662
+ext,|MX| ADRENALINA SPORTS NETWORK,http://pythontv.net:8789/luis12/pMQuMbm/43664
+ext,|MX| FUEL TV,http://pythontv.net:8789/luis12/pMQuMbm/43665
+ext,|MX| BOOMERANG FHD,http://pythontv.net:8789/luis12/pMQuMbm/43667
+ext,| MX | U-Beat,http://pythontv.net:8789/luis12/pMQuMbm/257411
+ext,| MX | Universal Reality,http://pythontv.net:8789/luis12/pMQuMbm/257410
+ext,| MX | Universal Premiere,http://pythontv.net:8789/luis12/pMQuMbm/257409
+ext,| MX | Universal Crime,http://pythontv.net:8789/luis12/pMQuMbm/257408
+ext,| MX | Universal Comedy,http://pythontv.net:8789/luis12/pMQuMbm/257407
+ext,| MX | SPACE ANDES,http://pythontv.net:8789/luis12/pMQuMbm/257406
+ext,| MX | National Geographic Latam,http://pythontv.net:8789/luis12/pMQuMbm/257405
+ext,| MX | H2,http://pythontv.net:8789/luis12/pMQuMbm/257404
+ext,| MX | CLARO SPORTS COPA LIBERTADORES,http://pythontv.net:8789/luis12/pMQuMbm/257403
+ext,| MX | TELEVISA GUADALAJARA,http://pythontv.net:8789/luis12/pMQuMbm/257402
+ext,| MX | Telemundo International,http://pythontv.net:8789/luis12/pMQuMbm/257401
+ext,| MX | TELEHIT MUSICA Plus,http://pythontv.net:8789/luis12/pMQuMbm/257400
+ext,| MX | Romance TV,http://pythontv.net:8789/luis12/pMQuMbm/257399
+ext,| MX | Retro Amor TV,http://pythontv.net:8789/luis12/pMQuMbm/257398
+ext,| MX | Nuestro Cine,http://pythontv.net:8789/luis12/pMQuMbm/257397
+ext,| MX | La Rosa de Guadalupe TV,http://pythontv.net:8789/luis12/pMQuMbm/257396
+ext,| MX | B CINE,http://pythontv.net:8789/luis12/pMQuMbm/257395
+ext,| MX | ATRESCINE,http://pythontv.net:8789/luis12/pMQuMbm/257394
+ext,| MX | Alebrije TV,http://pythontv.net:8789/luis12/pMQuMbm/257393
+ext,| MX | AFIZZIONADOS,http://pythontv.net:8789/luis12/pMQuMbm/257392
+ext,| MX | ADRENALINA,http://pythontv.net:8789/luis12/pMQuMbm/257391
+ext,| MX | 24H,http://pythontv.net:8789/luis12/pMQuMbm/257390
+ext,| MX | SUNDANCE,http://pythontv.net:8789/luis12/pMQuMbm/257389
+ext,| MX | FILM & ART,http://pythontv.net:8789/luis12/pMQuMbm/257388
+ext,| MX | DISCOVERY CIVILIZATION,http://pythontv.net:8789/luis12/pMQuMbm/257385
+ext,| MX | NU9VE TV,http://pythontv.net:8789/luis12/pMQuMbm/257383
+ext,| MX | Mejor de Liga,http://pythontv.net:8789/luis12/pMQuMbm/257382
+ext,| MX | PX SPORTS,http://pythontv.net:8789/luis12/pMQuMbm/257381
+ext,| MX | FOX SPORTS PREMIUM,http://pythontv.net:8789/luis12/pMQuMbm/257380
+ext,| MX | TELEMUNDO MEXICO,http://pythontv.net:8789/luis12/pMQuMbm/257379
+ext,| MX | WOBI,http://pythontv.net:8789/luis12/pMQuMbm/257378
+ext,| MX | TVO D,http://pythontv.net:8789/luis12/pMQuMbm/257377
+ext,| MX | TVE,http://pythontv.net:8789/luis12/pMQuMbm/257376
+ext,| MX | TRU TV,http://pythontv.net:8789/luis12/pMQuMbm/257375
+ext,| MX | TOONCAST,http://pythontv.net:8789/luis12/pMQuMbm/257374
+ext,| MX | TNT SERIES,http://pythontv.net:8789/luis12/pMQuMbm/257373
+ext,| MX | TELEVISA,http://pythontv.net:8789/luis12/pMQuMbm/257372
+ext,| MX | TELENOVELAS,http://pythontv.net:8789/luis12/pMQuMbm/257371
+ext,| MX | TCM,http://pythontv.net:8789/luis12/pMQuMbm/257370
+ext,| MX | TBS,http://pythontv.net:8789/luis12/pMQuMbm/257369
+ext,| MX | SYFY,http://pythontv.net:8789/luis12/pMQuMbm/257368
+ext,| MX | STAR TVE,http://pythontv.net:8789/luis12/pMQuMbm/257367
+ext,| MX | Q TV,http://pythontv.net:8789/luis12/pMQuMbm/257366
+ext,| MX | NTN24,http://pythontv.net:8789/luis12/pMQuMbm/257365
+ext,| MX | NICKTOONS,http://pythontv.net:8789/luis12/pMQuMbm/257364
+ext,| MX | TEEN NICK,http://pythontv.net:8789/luis12/pMQuMbm/257362
+ext,| MX | NBC GOLF,http://pythontv.net:8789/luis12/pMQuMbm/257360
+ext,| MX | MAS CHIC,http://pythontv.net:8789/luis12/pMQuMbm/257359
+ext,| MX | HISTORY,http://pythontv.net:8789/luis12/pMQuMbm/257357
+ext,| MX | GLITZ,http://pythontv.net:8789/luis12/pMQuMbm/257355
+ext,| MX | GARAGE TV,http://pythontv.net:8789/luis12/pMQuMbm/257353
+ext,| MX | FRANCIA 24,http://pythontv.net:8789/luis12/pMQuMbm/257351
+ext,| MX | FOOD NETWORK,http://pythontv.net:8789/luis12/pMQuMbm/257349
+ext,| MX | FILM & ARTS,http://pythontv.net:8789/luis12/pMQuMbm/257347
+ext,| MX | EUROPA EUROPA,http://pythontv.net:8789/luis12/pMQuMbm/257345
+ext,| MX | E! ENTERTAINMENT,http://pythontv.net:8789/luis12/pMQuMbm/257341
+ext,| MX | DISCOVERY WORLD,http://pythontv.net:8789/luis12/pMQuMbm/257339
+ext,| MX | DISCOVERY THEATER,http://pythontv.net:8789/luis12/pMQuMbm/257337
+ext,| MX | DISCOVERY SCIENCE,http://pythontv.net:8789/luis12/pMQuMbm/257335
+ext,| MX | COMEDY CENTRAL,http://pythontv.net:8789/luis12/pMQuMbm/257334
+ext,| MX | CANAL JUDICIAL,http://pythontv.net:8789/luis12/pMQuMbm/257332
+ext,| MX | CANAL 4,http://pythontv.net:8789/luis12/pMQuMbm/257330
+ext,| MX | BABY TV,http://pythontv.net:8789/luis12/pMQuMbm/257328
+ext,| MX | BABY FIRST,http://pythontv.net:8789/luis12/pMQuMbm/257326
+ext,| MX | AZTECA DEPORTES,http://pythontv.net:8789/luis12/pMQuMbm/257324
+ext,| MX | ANTENA 3,http://pythontv.net:8789/luis12/pMQuMbm/257323
+ext,| MX | U-Beat,http://pythontv.net:8789/luis12/pMQuMbm/257363
+ext,| MX | Universal Reality,http://pythontv.net:8789/luis12/pMQuMbm/257361
+ext,| MX | Universal Premiere,http://pythontv.net:8789/luis12/pMQuMbm/257358
+ext,| MX | Universal Crime,http://pythontv.net:8789/luis12/pMQuMbm/257356
+ext,| MX | Universal Comedy,http://pythontv.net:8789/luis12/pMQuMbm/257354
+ext,| MX | SPACE ANDES,http://pythontv.net:8789/luis12/pMQuMbm/257352
+ext,| MX | National Geographic Latam,http://pythontv.net:8789/luis12/pMQuMbm/257350
+ext,| MX | H2,http://pythontv.net:8789/luis12/pMQuMbm/257348
+ext,| MX | CLARO SPORTS COPA LIBERTADORES,http://pythontv.net:8789/luis12/pMQuMbm/257346
+ext,| MX | TELEVISA GUADALAJARA,http://pythontv.net:8789/luis12/pMQuMbm/257344
+ext,| MX | Telemundo International,http://pythontv.net:8789/luis12/pMQuMbm/257342
+ext,| MX | TELEHIT MUSICA Plus,http://pythontv.net:8789/luis12/pMQuMbm/257340
+ext,| MX | Romance TV,http://pythontv.net:8789/luis12/pMQuMbm/257338
+ext,| MX | Retro Amor TV,http://pythontv.net:8789/luis12/pMQuMbm/257336
+ext,| MX | Nuestro Cine,http://pythontv.net:8789/luis12/pMQuMbm/257333
+ext,| MX | La Rosa de Guadalupe TV,http://pythontv.net:8789/luis12/pMQuMbm/257331
+ext,| MX | B CINE,http://pythontv.net:8789/luis12/pMQuMbm/257329
+ext,| MX | ATRESCINE,http://pythontv.net:8789/luis12/pMQuMbm/257327
+ext,| MX | Alebrije TV,http://pythontv.net:8789/luis12/pMQuMbm/257325
+ext,| MX | AFIZZIONADOS,http://pythontv.net:8789/luis12/pMQuMbm/257322
+ext,| MX | ADRENALINA,http://pythontv.net:8789/luis12/pMQuMbm/257321
+ext,| MX | 24H,http://pythontv.net:8789/luis12/pMQuMbm/257320
+ext,| MX | SUNDANCE,http://pythontv.net:8789/luis12/pMQuMbm/257319
+ext,| MX | FILM & ART,http://pythontv.net:8789/luis12/pMQuMbm/257318
+ext,| MX | DISCOVERY CIVILIZATION,http://pythontv.net:8789/luis12/pMQuMbm/257315
+ext,| MX | NU9VE TV,http://pythontv.net:8789/luis12/pMQuMbm/257313
+ext,| MX | Mejor de Liga,http://pythontv.net:8789/luis12/pMQuMbm/257312
+ext,| MX | PX SPORTS,http://pythontv.net:8789/luis12/pMQuMbm/257311
+ext,| MX | FOX SPORTS PREMIUM,http://pythontv.net:8789/luis12/pMQuMbm/257310
+ext,| MX | TELEMUNDO MEXICO,http://pythontv.net:8789/luis12/pMQuMbm/257309
+ext,| MX | WOBI,http://pythontv.net:8789/luis12/pMQuMbm/257308
+ext,| MX | TVO D,http://pythontv.net:8789/luis12/pMQuMbm/257307
+ext,| MX | TVE,http://pythontv.net:8789/luis12/pMQuMbm/257306
+ext,| MX | TRU TV,http://pythontv.net:8789/luis12/pMQuMbm/257305
+ext,| MX | TOONCAST,http://pythontv.net:8789/luis12/pMQuMbm/257304
+ext,| MX | TNT SERIES,http://pythontv.net:8789/luis12/pMQuMbm/257303
+ext,| MX | TELEVISA,http://pythontv.net:8789/luis12/pMQuMbm/257302
+ext,| MX | TELENOVELAS,http://pythontv.net:8789/luis12/pMQuMbm/257301
+ext,| MX | TCM,http://pythontv.net:8789/luis12/pMQuMbm/257300
+ext,| MX | TBS,http://pythontv.net:8789/luis12/pMQuMbm/257299
+ext,| MX | SYFY,http://pythontv.net:8789/luis12/pMQuMbm/257298
+ext,| MX | STAR TVE,http://pythontv.net:8789/luis12/pMQuMbm/257297
+ext,| MX | Q TV,http://pythontv.net:8789/luis12/pMQuMbm/257296
+ext,| MX | NTN24,http://pythontv.net:8789/luis12/pMQuMbm/257295
+ext,| MX | NICKTOONS,http://pythontv.net:8789/luis12/pMQuMbm/257294
+ext,| MX | TEEN NICK,http://pythontv.net:8789/luis12/pMQuMbm/257293
+ext,| MX | NBC GOLF,http://pythontv.net:8789/luis12/pMQuMbm/257292
+ext,| MX | MAS CHIC,http://pythontv.net:8789/luis12/pMQuMbm/257291
+ext,| MX | HISTORY,http://pythontv.net:8789/luis12/pMQuMbm/257290
+ext,| MX | GLITZ,http://pythontv.net:8789/luis12/pMQuMbm/257289
+ext,| MX | GARAGE TV,http://pythontv.net:8789/luis12/pMQuMbm/257288
+ext,| MX | FRANCIA 24,http://pythontv.net:8789/luis12/pMQuMbm/257287
+ext,| MX | FOOD NETWORK,http://pythontv.net:8789/luis12/pMQuMbm/257286
+ext,| MX | FILM & ARTS,http://pythontv.net:8789/luis12/pMQuMbm/257285
+ext,| MX | EUROPA EUROPA,http://pythontv.net:8789/luis12/pMQuMbm/257284
+ext,| MX | ESPN EXTRA,http://pythontv.net:8789/luis12/pMQuMbm/257283
+ext,| MX | E! ENTERTAINMENT,http://pythontv.net:8789/luis12/pMQuMbm/257282
+ext,| MX | DISCOVERY WORLD,http://pythontv.net:8789/luis12/pMQuMbm/257281
+ext,| MX | DISCOVERY THEATER,http://pythontv.net:8789/luis12/pMQuMbm/257280
+ext,| MX | DISCOVERY SCIENCE,http://pythontv.net:8789/luis12/pMQuMbm/257279
+ext,| MX | COMEDY CENTRAL,http://pythontv.net:8789/luis12/pMQuMbm/257278
+ext,| MX | CANAL JUDICIAL,http://pythontv.net:8789/luis12/pMQuMbm/257277
+ext,| MX | CANAL 4,http://pythontv.net:8789/luis12/pMQuMbm/257276
+ext,| MX | AZTECA DEPORTES,http://pythontv.net:8789/luis12/pMQuMbm/257273
+ext,| MX | ANTENA 3,http://pythontv.net:8789/luis12/pMQuMbm/257272
+ext,| MX | GOLDEN Multiplex,http://pythontv.net:8789/luis12/pMQuMbm/257247
+ext,| MX | ESTAS VIENDO TELEVISA MONTERREY,http://pythontv.net:8789/luis12/pMQuMbm/257246
+ext,| MX | Como dice el dicho TV,http://pythontv.net:8789/luis12/pMQuMbm/257245
+
+group,EU| SKY UK SPORTS
+SkySportsNews.uk,|UK| SKY SPORTS NEWS FHD,http://pythontv.net:8789/luis12/pMQuMbm/117273
+SkySportsNews.uk,|UK| SKY SPORTS NEWS HD,http://pythontv.net:8789/luis12/pMQuMbm/117942
+ext,| UK | SKY SPORTS NEWS,http://pythontv.net:8789/luis12/pMQuMbm/275507
+SkySpPL.uk,|UK| SKY SPORTS PREMIER LEAGUE FHD,http://pythontv.net:8789/luis12/pMQuMbm/117943
+ext,|UK | SKY SPORTS PREMIER LEAGUE HD,http://pythontv.net:8789/luis12/pMQuMbm/275505
+ext,| UK | SKY SPORTS PREMIER LEAGUE,http://pythontv.net:8789/luis12/pMQuMbm/275504
+ext,|UK| LALIGA TV FHD,http://pythontv.net:8789/luis12/pMQuMbm/117352
+SkySpFball.uk,|UK| SKY SPORTS FOOTBALL FHD,http://pythontv.net:8789/luis12/pMQuMbm/117403
+ext,|UK | SKY SPORTS FOOTBALL HD,http://pythontv.net:8789/luis12/pMQuMbm/275502
+ext,| UK | SKY SPORTS FOOTBALL,http://pythontv.net:8789/luis12/pMQuMbm/275501
+ext,|UK | SKY SPORTS ARENA (DARTS) HD,http://pythontv.net:8789/luis12/pMQuMbm/275500
+ext,| UK | SKY SPORTS ARENA (DARTS),http://pythontv.net:8789/luis12/pMQuMbm/275499
+SkySpArena.uk,|UK| SKY SPORTS ARENA FHD  (BACKUP),http://pythontv.net:8789/luis12/pMQuMbm/117434
+SkySpMainEv.uk,|UK| SKY SPORTS MAIN EVENT FHD,http://pythontv.net:8789/luis12/pMQuMbm/117405
+SkySpMainEv.uk,|UK| SKY SPORTS MAIN EVENT HD,http://pythontv.net:8789/luis12/pMQuMbm/117196
+ext,| UK | SKY SPORTS MAIN EVENT,http://pythontv.net:8789/luis12/pMQuMbm/275497
+SkySpMix.uk,|UK| SKY SPORTS MIX FHD,http://pythontv.net:8789/luis12/pMQuMbm/117397
+SkySpMix.uk,|UK| SKY SPORTS MIX HD,http://pythontv.net:8789/luis12/pMQuMbm/117274
+ext,| UK | SKY SPORTS MIX,http://pythontv.net:8789/luis12/pMQuMbm/275495
+SkySportsF1.uk,|UK| SKY SPORTS F1 FHD,http://pythontv.net:8789/luis12/pMQuMbm/117193
+ext,|UK | SKY SPORTS F1 HD,http://pythontv.net:8789/luis12/pMQuMbm/275493
+ext,| UK | SKY SPORTS F1,http://pythontv.net:8789/luis12/pMQuMbm/275492
+SkySpCricket.uk,|UK| SKY SPORTS CRICKET FHD,http://pythontv.net:8789/luis12/pMQuMbm/117401
+SkySpCricket.uk,|UK| SKY SPORTS CRICKET HD,http://pythontv.net:8789/luis12/pMQuMbm/117192
+ext,| UK | SKY SPORTS CRICKET,http://pythontv.net:8789/luis12/pMQuMbm/275490
+ext,| UK | SKY SPORTS NFL FHD,http://pythontv.net:8789/luis12/pMQuMbm/275488
+ext,| UK | SKY SPORTS NFL,http://pythontv.net:8789/luis12/pMQuMbm/275487
+Eurosport1.uk,|UK| EUROSPORTS 1 FHD,http://pythontv.net:8789/luis12/pMQuMbm/117339
+ext,|UK | EUROSPORTS 1 HD,http://pythontv.net:8789/luis12/pMQuMbm/275486
+ext,| UK | EUROSPORT 1,http://pythontv.net:8789/luis12/pMQuMbm/275485
+Eurosport2.uk,|UK| EUROSPORTS 2 FHD,http://pythontv.net:8789/luis12/pMQuMbm/117340
+ext,|UK | EUROSPORTS 2 HD,http://pythontv.net:8789/luis12/pMQuMbm/275484
+ext,| UK | EUROSPORT 2,http://pythontv.net:8789/luis12/pMQuMbm/275483
+ext,| UK | BOX NATION FHD,http://pythontv.net:8789/luis12/pMQuMbm/275480
+ext,| UK | ELEVEN SPORTS 1,http://pythontv.net:8789/luis12/pMQuMbm/275479
+ext,| UK | ELEVEN SPORTS 2,http://pythontv.net:8789/luis12/pMQuMbm/275478
+SkySpTheOpen.uk,|UK| SKY SPORTS GOLF FHD,http://pythontv.net:8789/luis12/pMQuMbm/117404
+SkySpTheOpen.uk,|UK| SKY SPORTS GOLF HD,http://pythontv.net:8789/luis12/pMQuMbm/117195
+ext,| UK | SKY SPORTS GOLF (THE OPEN),http://pythontv.net:8789/luis12/pMQuMbm/275476
+ext,| UK | SKY SPORTS RACING FHD,http://pythontv.net:8789/luis12/pMQuMbm/275435
+ext,|UK| SKY SPORTS RACING HD,http://pythontv.net:8789/luis12/pMQuMbm/117272
+RacingUK.uk,|UK| RACING UK FHD,http://pythontv.net:8789/luis12/pMQuMbm/117373
+ext,|UK | RACING UK HD,http://pythontv.net:8789/luis12/pMQuMbm/275436
+ext,| UK | SPORTY STUFF FHD,http://pythontv.net:8789/luis12/pMQuMbm/275474
+ext,| UK | SPORTY STUFF HD,http://pythontv.net:8789/luis12/pMQuMbm/275473
+ext,| UK | SPORTY STUFF,http://pythontv.net:8789/luis12/pMQuMbm/275472
+ext,|UK| FREE SPORTS FHD,http://pythontv.net:8789/luis12/pMQuMbm/117345
+ext,| UK | FREE SPORTS FHD,http://pythontv.net:8789/luis12/pMQuMbm/275471
+ext,| UK | FREE SPORTS,http://pythontv.net:8789/luis12/pMQuMbm/275470
+ext,| UK | SKY SPORT BOX OFFICE HD,http://pythontv.net:8789/luis12/pMQuMbm/275467
+ext,| UK | SKY SPORT BOX OFFICE,http://pythontv.net:8789/luis12/pMQuMbm/275469
+ext,| UK | BT BOX OFFICE,http://pythontv.net:8789/luis12/pMQuMbm/275468
+ext,|UK| BT 1 FHD,http://pythontv.net:8789/luis12/pMQuMbm/117321
+ext,| UK | BT SPORTS 1 HD,http://pythontv.net:8789/luis12/pMQuMbm/275462
+BTSport1.uk,|UK| BT SPORTS 1 SD,http://pythontv.net:8789/luis12/pMQuMbm/117584
+ext,|UK| BT 2 FHD,http://pythontv.net:8789/luis12/pMQuMbm/117322
+ext,| UK | BT SPORTS 2 HD,http://pythontv.net:8789/luis12/pMQuMbm/275460
+BTSport2.uk,|UK| BT SPORTS 2 SD,http://pythontv.net:8789/luis12/pMQuMbm/117585
+ext,|UK| BT 3 FHD,http://pythontv.net:8789/luis12/pMQuMbm/117323
+ext,| UK | BT SPORTS 3 HD,http://pythontv.net:8789/luis12/pMQuMbm/275458
+BTSport3.uk,|UK| BT SPORTS 3 SD,http://pythontv.net:8789/luis12/pMQuMbm/117586
+ext,| UK | BT SPORTS 4 FHD,http://pythontv.net:8789/luis12/pMQuMbm/275457
+ext,|UK| BT SPORTS 4 SD,http://pythontv.net:8789/luis12/pMQuMbm/117460
+ext,| UK | BT SPORTS 5 FHD,http://pythontv.net:8789/luis12/pMQuMbm/275456
+ext,|UK| BT SPORTS 6 HD,http://pythontv.net:8789/luis12/pMQuMbm/117834
+ext,|UK| BT SPORTS 7 SD,http://pythontv.net:8789/luis12/pMQuMbm/117833
+BTSportESPN.uk,|UK| BT ESPN HD,http://pythontv.net:8789/luis12/pMQuMbm/117186
+ext,| UK | BT FHD ESPN (BACKUP ),http://pythontv.net:8789/luis12/pMQuMbm/275455
+ext,| UK | BT SPORT EXTRA 1 FHD,http://pythontv.net:8789/luis12/pMQuMbm/275454
+ext,|UK | BT SPORT EXTRA 1 HD,http://pythontv.net:8789/luis12/pMQuMbm/275453
+ext,| UK | BT SPORTS EXTRA 1 - BT SPORTS 5,http://pythontv.net:8789/luis12/pMQuMbm/275452
+ext,| UK | BT SPORT EXTRA 2 FHD,http://pythontv.net:8789/luis12/pMQuMbm/275451
+ext,|UK | BT SPORT EXTRA 2 HD,http://pythontv.net:8789/luis12/pMQuMbm/275450
+ext,| UK | BT SPORTS EXTRA 2,http://pythontv.net:8789/luis12/pMQuMbm/275449
+ext,| UK | BT SPORT EXTRA 3 FHD,http://pythontv.net:8789/luis12/pMQuMbm/275448
+ext,|UK | BT SPORT EXTRA 3 HD,http://pythontv.net:8789/luis12/pMQuMbm/275447
+ext,| UK | BT SPORTS EXTRA 3,http://pythontv.net:8789/luis12/pMQuMbm/275446
+ext,| UK | BT SPORT EXTRA 4 FHD,http://pythontv.net:8789/luis12/pMQuMbm/275445
+ext,|UK | BT SPORT EXTRA 4 HD,http://pythontv.net:8789/luis12/pMQuMbm/275444
+ext,| UK | BT SPORTS EXTRA 4,http://pythontv.net:8789/luis12/pMQuMbm/275443
+ext,| UK | BT SPORT EXTRA 5 FHD,http://pythontv.net:8789/luis12/pMQuMbm/275442
+ext,|UK | BT SPORT EXTRA 5 HD,http://pythontv.net:8789/luis12/pMQuMbm/275441
+ext,| UK | BT SPORTS EXTRA 5,http://pythontv.net:8789/luis12/pMQuMbm/275440
+ext,| UK | BT SPORT EXTRA 6 FHD,http://pythontv.net:8789/luis12/pMQuMbm/275439
+ext,|UK | BT SPORT EXTRA 6 HD,http://pythontv.net:8789/luis12/pMQuMbm/275438
+ext,| UK | BT SPORTS EXTRA 6,http://pythontv.net:8789/luis12/pMQuMbm/275437
+
+group,LA| ARGENTINA
+ext,|ARG| TYC SPORTS HD,http://pythontv.net:8789/luis12/pMQuMbm/43956
+ext,|ARG| TNT SPORTS HD,http://pythontv.net:8789/luis12/pMQuMbm/43957
+ext,|ARG| DEPORTV HD,http://pythontv.net:8789/luis12/pMQuMbm/43958
+ext,|ARG| ESPN,http://pythontv.net:8789/luis12/pMQuMbm/43966
+ext,|ARG| ESPN 2,http://pythontv.net:8789/luis12/pMQuMbm/43967
+ext,| ARG | ESPN 2,http://pythontv.net:8789/luis12/pMQuMbm/262397
+ext,|ARG| ESPN 3,http://pythontv.net:8789/luis12/pMQuMbm/43968
+ext,|ARG| ESPN PREMIUM HD,http://pythontv.net:8789/luis12/pMQuMbm/43969
+ext,|ARG| FOX SPORTS HD,http://pythontv.net:8789/luis12/pMQuMbm/43971
+ext,|ARG| FOX SPORTS 2 HD,http://pythontv.net:8789/luis12/pMQuMbm/43972
+ext,| ARG | FOX SPORTS 3 HD,http://pythontv.net:8789/luis12/pMQuMbm/262398
+ext,|ARG| FOX SPORTS PREMIUM,http://pythontv.net:8789/luis12/pMQuMbm/43975
+ext,| ARG | (DTV) DIRECTV SPORTS,http://pythontv.net:8789/luis12/pMQuMbm/262396
+ext,| ARG | (DTV) DIRECTV SPORTS PLUS,http://pythontv.net:8789/luis12/pMQuMbm/262395
+ext,| ARG | DIRECTV Sports 2,http://pythontv.net:8789/luis12/pMQuMbm/262394
+ext,| ARG | (DTV) DIRECTV Sports Fight,http://pythontv.net:8789/luis12/pMQuMbm/262393
+ext,| ARG | (DTV) Directv EVENTOS  1,http://pythontv.net:8789/luis12/pMQuMbm/262392
+ext,| ARG | (DTV) Directv EVENTOS  2,http://pythontv.net:8789/luis12/pMQuMbm/262391
+ext,| ARG | (DTV) DIRECTV Eventos 3,http://pythontv.net:8789/luis12/pMQuMbm/262390
+ext,| ARG | (DTV) DIRECTV Eventos 4,http://pythontv.net:8789/luis12/pMQuMbm/262389
+ext,| ARG | (DTV) DIRECTV Eventos 5,http://pythontv.net:8789/luis12/pMQuMbm/262388
+ext,| ARG | (DTV) DIRECTV Eventos 6,http://pythontv.net:8789/luis12/pMQuMbm/262387
+ext,| ARG | DIRECTV Eventos 7,http://pythontv.net:8789/luis12/pMQuMbm/262386
+ext,| ARG | (FLOW) PX SPORTS,http://pythontv.net:8789/luis12/pMQuMbm/262384
+
